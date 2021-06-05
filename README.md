@@ -1,6 +1,6 @@
 # Edge-Detection-Image-Processing
 
-This repository consists of mini python programs that implement multiple edge-detection techniques as well as a document explaining the results and comparing between the different techniques. 
+This repository consists of mini python programs that implement multiple edge-detection techniques, original and result pictures, and a document explaining the results and comparing between the different techniques. 
 
 Methods:
   1. Gradient Edge Detection (Robert's, Sobel, and Prewitt)
